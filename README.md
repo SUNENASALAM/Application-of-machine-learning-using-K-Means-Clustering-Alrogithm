@@ -1,0 +1,2 @@
+# Application-of-machine-learning-using-K-Means-Clustering-Alrogithm
+Clustering of the dataset using any two clustering algorithms. Considered clustering algorithms such as KThe dataset used is "Customer_Savings_Expense_List", which is a Bank dataset containing basic information of the customers and the main column features which was taken into consideration was the “salary_credited”, “savings” and “expenses”.
